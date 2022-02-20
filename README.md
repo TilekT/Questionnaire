@@ -3,7 +3,7 @@ Dapp on Near blockchain
 
 This is a project built on Near blockchain (Testnet).
 Using VIEW method to view data on blockchain.
-Using CHANGE methods to change state on blockchain (requires gas fee).Cancel changes
+Using CHANGE methods to change state on blockchain (requires gas fee).
 
 Simple Dapp can save data on the blockchain. 
 
