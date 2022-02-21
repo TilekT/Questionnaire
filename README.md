@@ -3,17 +3,15 @@ Questionnaire on NEAR blockchain
 Questionnaire is a smart contract deployed on Near. 
 User can save questions and answers to blockchain and retrieve data using VIEW and CHANGE methods.
 
-1- npx create-near-app todo
+1- yarn install
 
-2- yarn install
+2- yarn dev
 
-3- yarn dev
+3- yarn build:release
 
-4- yarn build:release
+4- near dev-deploy
 
-5- near dev-deploy
-
-or run ./scripts/build.sh instead of 4,5
+or run ./scripts/build.sh instead of 3,4
 
 near view dev-1645429298908-23414589644047 hello
 
