@@ -3,6 +3,12 @@ Questionnaire on NEAR blockchain
 Questionnaire is a smart contract deployed on Near. 
 User can save questions and answers to blockchain and retrieve data using VIEW and CHANGE methods.
 
+Smart Contract lives here:
+Questionnaire\src\sample\assembly\index.ts
+
+Tests are here:
+src\sample\__tests__\index.unit.spec.ts
+
 1- yarn install
 
 2- yarn dev
